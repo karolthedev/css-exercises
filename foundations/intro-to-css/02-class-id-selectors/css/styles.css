@@ -1,0 +1,45 @@
+/* styles.css */
+
+/*
+p {
+    background-color: rgb(233, 129, 129);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+div:nth-of-type(1) {
+    font-size: 36px;
+    color: rgb(0, 4, 255)
+}
+
+p:nth-of-type(2) {
+    font-size: 24px;
+}
+
+div:nth-of-type(2) {
+    background-color: rgb(137, 235, 153);
+    font-size: 24px;
+    font-weight: bold;
+}
+*/
+
+.odd {
+    background-color: rgb(233, 129, 129);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#second {
+    font-size: 36px;
+    color: rgb(0, 4, 255)
+}
+
+#third {
+    font-size: 24px;
+}
+
+#fourth {
+    background-color: rgb(137, 235, 153);
+    font-size: 24px;
+    font-weight: bold;
+}
+
+
